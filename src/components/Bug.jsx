@@ -10,7 +10,7 @@ export default function Bug({color}) {
       color={"white"}
       bg={color}
     >
-      Hello world
+      First Bug
     </Box>
   );
 }
